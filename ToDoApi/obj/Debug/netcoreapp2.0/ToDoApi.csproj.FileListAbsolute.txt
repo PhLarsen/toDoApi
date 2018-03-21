@@ -1,0 +1,11 @@
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.deps.json
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.json
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.dev.json
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.dll
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.pdb
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csprojResolveAssemblyReference.cache
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csproj.CoreCompileInputs.cache
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfoInputs.cache
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfo.cs
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.dll
+c:\users\philip\documents\visual studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.pdb
