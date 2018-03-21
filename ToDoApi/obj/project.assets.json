@@ -12545,11 +12545,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\philip\\documents\\visual studio 2017\\Projects\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Philip\\documents\\visual studio 2017\\Projects\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
       "projectName": "ToDoApi",
-      "projectPath": "c:\\users\\philip\\documents\\visual studio 2017\\Projects\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+      "projectPath": "C:\\Users\\Philip\\documents\\visual studio 2017\\Projects\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
       "packagesPath": "C:\\Users\\Philip\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\philip\\documents\\visual studio 2017\\Projects\\ToDoApi\\ToDoApi\\obj\\",
+      "outputPath": "C:\\Users\\Philip\\documents\\visual studio 2017\\Projects\\ToDoApi\\ToDoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
